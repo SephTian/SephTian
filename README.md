@@ -8,7 +8,7 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 
 🔗 website: <a href="https://josephjc.vercel.app">josephjc.vercel.app</a>
 
-# 🧰 Languages and Framework
+### 🧰 Languages and Framework
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap"/>
@@ -20,9 +20,10 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel"/>
 <br />
 <br />
+<br />
+<br />
 
-
-# ⚙️ Tools and Databases
+### ⚙️ Tools and Databases
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redux"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres"/>
