@@ -8,6 +8,10 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 
 🔗 website: <a href="https://josephjc.vercel.app">josephjc.vercel.app</a>
 
+🔗 Project I build from dicoding class:
+1. <a href="https://jc-notes-app.vercel.app">jc-notes-app.vercel.app</a>
+2. <a href="https://jc-world-thread-app.vercel.app">jc-world-thread-app.vercel.app</a>
+
 ### 🧰 Technologies
 <div style="display:flex;gap:10px;">
   <img  src="https://skillicons.dev/icons?i=html"/>
