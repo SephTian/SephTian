@@ -9,7 +9,7 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 🔗 website: <a href="https://josephjc.vercel.app">josephjc.vercel.app</a>
 
 ### 🧰 Technologies
-<div style="display:flex;gap:10px">
+<div style="display:flex;gap:10px;">
   <img  src="https://skillicons.dev/icons?i=html"/>
   <img  src="https://skillicons.dev/icons?i=css"/>
   <img src="https://skillicons.dev/icons?i=bootstrap"/>
