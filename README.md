@@ -8,10 +8,6 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 
 🔗 website: <a href="https://josephjc.vercel.app">josephjc.vercel.app</a>
 
-My project from dicoding:
-1. josephjc.vercel.app
-2. josephjc.vercel.app
-
 # 🧰 Languages and Framework
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css"/>
@@ -23,8 +19,9 @@ My project from dicoding:
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=php"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel"/>
 <br />
-
-
+<br />
+<br />
+<br />
 
 # ⚙️ Tools and Databases
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
@@ -32,7 +29,9 @@ My project from dicoding:
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql"/>
 <br />
-#
+<br />
+<br />
+<br />
 <!--
 **SephTian/SephTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
