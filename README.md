@@ -20,8 +20,7 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel"/>
 <br />
 <br />
-<br />
-<br />
+
 
 # ⚙️ Tools and Databases
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
