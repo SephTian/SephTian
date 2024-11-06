@@ -8,22 +8,23 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 
 🔗 website: <a href="https://josephjc.vercel.app">josephjc.vercel.app</a>
 
-### 🧰 Languages and Tools
+### 🧰 Technologies
 <div style="display:flex;gap:10px">
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=html"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=css"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=bootstrap"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=tailwind"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=js"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=ts"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=react"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=php"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=laravel"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=git"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=redux"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=postgres"/>
-  <img align="left" style="padding:10px;" src="https://skillicons.dev/icons?i=mysql"/>
+  <img  src="https://skillicons.dev/icons?i=html"/>
+  <img  src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap"/>
+  <img  src="https://skillicons.dev/icons?i=tailwind"/>
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <img src="https://skillicons.dev/icons?i=ts"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img  src="https://skillicons.dev/icons?i=php"/>
+  <img src="https://skillicons.dev/icons?i=laravel"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=redux"/>
+  <img src="https://skillicons.dev/icons?i=postgres"/>
+  <img  src="https://skillicons.dev/icons?i=mysql"/>
 </div>
 <br />
 <br />
 
+ align="left" style="padding:10px;"
