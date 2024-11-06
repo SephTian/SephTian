@@ -26,5 +26,3 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 </div>
 <br />
 <br />
-
- align="left" style="padding:10px;"
