@@ -6,14 +6,13 @@ In my repositories, you’ll find projects that demonstrate my skills in fronten
 
 Feel free to explore my projects, and reach out if you'd like to connect!
 
-🔗 website: josephjc.vercel.app
+🔗 website: <a href="josephjc.vercel.app">josephjc.vercel.app</a>
 
 My project from dicoding:
 1. josephjc.vercel.app
 2. josephjc.vercel.app
 
 # 🧰 Languages and Framework
-<br />
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap"/>
@@ -26,7 +25,6 @@ My project from dicoding:
 <br />
 
 # ⚙️ Tools and Databases
-<br />
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redux"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres"/>
