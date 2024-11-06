@@ -8,7 +8,7 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 
 🔗 website: <a href="https://josephjc.vercel.app">josephjc.vercel.app</a>
 
-### 🧰 Languages and Framework
+### 🧰 Languages and Tools
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap"/>
@@ -18,21 +18,13 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=php"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel"/>
-<br />
-<br />
-<br />
-<br />
-
-### ⚙️ Tools and Databases
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redux"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql"/>
 <br />
 <br />
-<br />
-<br />
-<!--
+
 **SephTian/SephTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
