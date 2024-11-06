@@ -8,8 +8,23 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js"/>
+Languanges:
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=tailwind"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ts"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=react"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=php"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel"/>
 <br />
+
+Tools:
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redux"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres"/>
+<img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql"/>
 
 #
 <!--
