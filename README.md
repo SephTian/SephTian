@@ -6,7 +6,7 @@ In my repositories, you’ll find projects that demonstrate my skills in fronten
 
 Feel free to explore my projects, and reach out if you'd like to connect!
 
-🔗 website: <a href="josephjc.vercel.app">josephjc.vercel.app</a>
+🔗 website: <a href="https://josephjc.vercel.app">josephjc.vercel.app</a>
 
 My project from dicoding:
 1. josephjc.vercel.app
@@ -23,6 +23,8 @@ My project from dicoding:
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=php"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=laravel"/>
 <br />
+
+
 
 # ⚙️ Tools and Databases
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
