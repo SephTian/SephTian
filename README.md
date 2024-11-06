@@ -1,4 +1,4 @@
-# 😄 Joseph Christian
+# 👺 SephTian - Joseph Christian
 
 Hi! I'm Joseph Christian, a Frontend Developer with experience in building modern and responsive web applications. I'm passionate about creating interactive, intuitive, and accessible user interfaces. My main technologies include React, TypeScript, and Tailwind CSS, which I use to deliver smooth and engaging user experiences.
 
@@ -6,9 +6,10 @@ In my repositories, you’ll find projects that demonstrate my skills in fronten
 
 Feel free to explore my projects, and reach out if you'd like to connect!
 
-### 🧰 Languages and Tools
+# 🧰 Languages and Tools
 
 Languanges:
+<br />
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=bootstrap"/>
@@ -21,11 +22,12 @@ Languanges:
 <br />
 
 Tools:
+<br />
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=redux"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=postgres"/>
 <img align="left" style="padding-right:10px;" src="https://skillicons.dev/icons?i=mysql"/>
-
+<br />
 #
 <!--
 **SephTian/SephTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
