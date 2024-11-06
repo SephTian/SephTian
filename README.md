@@ -8,7 +8,7 @@ Feel free to explore my projects, and reach out if you'd like to connect!
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i='js'"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js"/>
 <br />
 
 #
