@@ -1,6 +1,6 @@
 # 👺 SephTian - Joseph Christian
 
-Hi! I'm Joseph Christian, a Frontend Developer with experience in building modern and responsive web applications. I'm passionate about creating interactive, intuitive, and accessible user interfaces. My main technologies include React, TypeScript, and Tailwind CSS, which I use to deliver smooth and engaging user experiences.
+Hi! I'm Joseph Christian, a Fullstack Web Developer with experience in building modern and responsive web applications. I'm passionate about creating interactive, intuitive, and accessible user interfaces. My main technologies include React, TypeScript, Laravel, and Tailwind CSS, which I use to deliver smooth and engaging user experiences.
 
 In my repositories, you’ll find projects that demonstrate my skills in frontend development and my commitment to clean, maintainable code. I enjoy exploring new tools and frameworks to stay up-to-date with industry trends and continually improve my craft.
 
